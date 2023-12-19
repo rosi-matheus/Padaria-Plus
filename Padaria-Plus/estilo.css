@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    background-color: #f4f0e5;
+    font-family: Tahoma;
+}
+
+div{
+    width: 700px;
+    margin: 20px auto;
+    text-align: center;
+    /* border: solid; */
+}
+
+.header img{
+    width: 200px;
+}
+
+a{
+    padding: 10px;
+    color: rgb(87, 24, 1);
+    margin-bottom: 50px;
+}
+
+h1{
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    font-size: 28px;
+    border-top: 1px solid #ff5e00;
+}
+
+#sobre h2{
+    font-size: 24px;
+    font-weight: normal;
+    margin: 10px 10px 15px 10px;
+}
+
+#sobre img{
+    width: inherit;
+}
+
+#sobre h2{
+    color: #dd6e2e;
+}
+
+#produtos{
+    background-color: #de8e37;
+    color: #fff;
+    padding: 20px 0px 10px 0px;
+}
+
+#produtos img{
+    width: 400px;
+}
+
+#produtos p{
+    margin: auto 100px;
+    line-height: 28px;
+}
+
+img{
+    border-radius: 2px;
+}
+
+h3{
+    margin-bottom: 5px;
+}
+
+span{
+    font-weight: bold;
+}
